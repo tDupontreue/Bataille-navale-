@@ -1,0 +1,29 @@
+﻿  field.cpp
+c:\users\brulux\desktop\bataille navale\config.h(22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\config.h(24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  Game.cpp
+c:\users\brulux\desktop\bataille navale\config.h(22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\config.h(24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\game.cpp(167): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\brulux\desktop\bataille navale\game.cpp(168): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\brulux\desktop\bataille navale\game.cpp(228): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\brulux\desktop\bataille navale\game.cpp(292): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\brulux\desktop\bataille navale\game.cpp(293): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\brulux\desktop\bataille navale\game.cpp(294): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+  main.cpp
+c:\users\brulux\desktop\bataille navale\config.h(22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\config.h(24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\main.cpp(9): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  player.cpp
+c:\users\brulux\desktop\bataille navale\config.h(22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\config.h(24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  ship.cpp
+c:\users\brulux\desktop\bataille navale\config.h(22): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\config.h(24): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+c:\users\brulux\desktop\bataille navale\ship.cpp(120): warning C4101: 'tmp' : variable locale non référencée
+  Génération de code en cours
+  120 of 124 functions (96.8%) were compiled, the rest were copied from previous compilation.
+    13 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  TemplateSFML.vcxproj -> C:\Users\Brulux\Desktop\Bataille Navale\x64\Release\TemplateSFML.exe
